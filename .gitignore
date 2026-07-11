@@ -79,5 +79,6 @@ Thumbs.db
 
 # Dataset files because they are large and should not be tracked in version control
 dataset/*
+*.csv
 
 *.egg-info/
