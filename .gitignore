@@ -82,3 +82,8 @@ dataset/*
 *.csv
 
 *.egg-info/
+
+*.jpg
+*.zip
+
+TP3/datos_zip/*
